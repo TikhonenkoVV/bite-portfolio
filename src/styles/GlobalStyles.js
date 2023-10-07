@@ -21,7 +21,7 @@ export const GlobalStyles = css`
     background-size: cover;
     min-height: 100vh;
     font-style: normal;
-    color: #fff;
+    color: ${theme.colors.white};
   }
 
   h1,
