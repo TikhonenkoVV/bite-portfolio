@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bite-portfolio/static/css/main.7cda0caf.css",
+    "main.js": "/bite-portfolio/static/js/main.5074ef30.js",
+    "static/js/787.23aa3845.chunk.js": "/bite-portfolio/static/js/787.23aa3845.chunk.js",
+    "static/media/body-bgr.png": "/bite-portfolio/static/media/body-bgr.67b65efe535fab99cfa6.png",
+    "static/media/hero.png": "/bite-portfolio/static/media/hero.a1ec960c2ace7f90eefc.png",
+    "static/media/hero-animation.svg": "/bite-portfolio/static/media/hero-animation.8d8fe9fa2803718ba76963e166ff86c2.svg",
+    "static/media/sprite.svg": "/bite-portfolio/static/media/sprite.1574a780416e6103617772c4f046f709.svg",
+    "static/media/art_react.svg": "/bite-portfolio/static/media/art_react.ce2d51865a4ac2329f062801007311e9.svg",
+    "static/media/art_redux.svg": "/bite-portfolio/static/media/art_redux.bf733306f0d24aceaf403198378b08c1.svg",
+    "index.html": "/bite-portfolio/index.html",
+    "main.7cda0caf.css.map": "/bite-portfolio/static/css/main.7cda0caf.css.map",
+    "main.5074ef30.js.map": "/bite-portfolio/static/js/main.5074ef30.js.map",
+    "787.23aa3845.chunk.js.map": "/bite-portfolio/static/js/787.23aa3845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.5074ef30.js"
+  ]
+}
